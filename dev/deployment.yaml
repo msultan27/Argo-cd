@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: rizwanshaikh27/static-app3:v3
+        image: rizwanshaikh27/static-app1:v1
         ports:
         - containerPort: 8080
